@@ -1,0 +1,30 @@
+.promo-block-phone {
+    font-size: 25px;
+    color: #fff;
+}
+
+.work-popup-close {
+    font-size: 20px !important;
+}
+
+.color_blue {
+    color: #A0C1FC;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.color_wight {
+    color: #fff !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.color_dark {
+    color: #515769 !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.full-width {
+    max-height: 60vh;
+}
