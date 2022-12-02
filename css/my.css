@@ -28,3 +28,7 @@
 .full-width {
     max-height: 60vh;
 }
+
+.masonry-grid-item {
+    padding: 3px;
+}
