@@ -1,4 +1,9 @@
-.promo-block-phone {
+.promo-block-phone{
+    font-size: 25px;
+    color: #fff;
+}
+
+.promo-block-phone a{
     font-size: 25px;
     color: #fff;
 }
